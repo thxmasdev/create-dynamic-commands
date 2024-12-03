@@ -1,0 +1,7 @@
+{
+    "watch": ["."],
+    "ignore": ["commands.json"],
+    "ext": "js,json",
+    "exec": "node index.js"
+  }
+  
